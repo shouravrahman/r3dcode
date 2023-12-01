@@ -1,6 +1,6 @@
 const Testimonials = () => {
 	return (
-		<section className='dark:bg-testimonial-bg-dark dark:text-gray-100 rounded-lg'>
+		<section className='dark:bg-testimonial-bg-dark dark:text-gray-100 rounded-lg relative z-20'>
 			<div className='container px-6 py-12 mx-auto'>
 				<div className='grid items-center gap-4 xl:grid-cols-5'>
 					<div className='max-w-2xl mx-auto my-8 space-y-4 text-center xl:col-span-2 xl:text-left'>
@@ -12,6 +12,35 @@ const Testimonials = () => {
 							ei diceret alienum, et sit cetero malorum. Et sea iudico
 							consequat, est sanctus adipisci ex.
 						</p>
+					</div>
+					<div className='absolute bottom-0 right-0 z-[-1]'>
+						<svg
+							width='1440'
+							height='886'
+							viewBox='0 0 1440 886'
+							fill='none'
+							xmlns='http://www.w3.org/2000/svg'
+						>
+							<path
+								opacity='0.5'
+								d='M193.307 -273.321L1480.87 1014.24L1121.85 1373.26C1121.85 1373.26 731.745 983.231 478.513 729.927C225.976 477.317 -165.714 85.6993 -165.714 85.6993L193.307 -273.321Z'
+								fill='url(#paint0_linear)'
+							/>
+							<defs>
+								<linearGradient
+									id='paint0_linear'
+									x1='1308.65'
+									y1='1142.58'
+									x2='602.827'
+									y2='-418.681'
+									gradientUnits='userSpaceOnUse'
+								>
+									<stop stopColor='#3056D3' stopOpacity='0.36' />
+									<stop offset='1' stopColor='#F5F2FD' stopOpacity='0' />
+									<stop offset='1' stopColor='#F5F2FD' stopOpacity='0.096144' />
+								</linearGradient>
+							</defs>
+						</svg>
 					</div>
 					<div className='p-6 xl:col-span-3'>
 						<div className='grid gap-4 md:grid-cols-2'>
