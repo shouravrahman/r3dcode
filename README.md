@@ -1,12 +1,4 @@
----
-title: Sonic Scribe
----
-
-# Sonic Scribe
-
-![Project Image](https://via.placeholder.com/800x400.png)
-
-A React-based Audio To Text Converter.
+# Sonic Scribe : A React-based Audio To Text Converter.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp;
 
