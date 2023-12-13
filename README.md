@@ -1,4 +1,6 @@
 # Sonic Scribe : A React-based Audio To Text Converter.
+![FancyWM_wCLY9q1NWe](https://github.com/shouravrahman/sonic-scribe/assets/73746355/33d7a902-67ea-4568-85e5-536c4ddc3333)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp;
 
