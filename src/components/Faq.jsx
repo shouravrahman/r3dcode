@@ -15,7 +15,7 @@ const Faq = () => {
 								Any Questions? Look Here
 							</h2>
 							<p className='text-base text-body-color dark:text-text-dark/70'>
-								There are many variations of passages of Lorem Ipsum available
+								There are many variations of passages of Lorem Ipsum available,
 								but the majority have suffered alteration in some form.
 							</p>
 						</div>
@@ -25,30 +25,30 @@ const Faq = () => {
 				<div className='-mx-4 flex flex-wrap'>
 					<div className='w-full px-4 lg:w-1/2'>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: How accurate is your audio-to-text converter?'
+							text='A: Our converter boasts a high level of accuracy, thanks to advanced algorithms and continuous improvement. We strive for precision, ensuring reliable and error-free transcriptions.'
 						/>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: What audio formats does your converter support?'
+							text='A: Our converter supports a wide range of audio formats, including MP3, WAV, AIFF, and more. You can easily upload your files, and the converter will seamlessly process them.'
 						/>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: Is there a limit to the length of audio files I can transcribe?'
+							text='A: While some converters have limitations, ours is designed to handle both short clips and longer recordings. There’s no strict duration limit allowing you to transcribe various lengths of audio content.'
 						/>
 					</div>
 					<div className='w-full px-4 lg:w-1/2'>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: How do I access the transcribed text after conversion?'
+							text='A: Once your audio file is processed, you’ll receive a notification. You can then download the transcribed text directly from our platform. Additionally, we offer options for cloud storage and easy sharing.'
 						/>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: Can I use your service for multiple languages?'
+							text='A: Absolutely. Our audio-to-text converter supports multiple languages, making it versatile for users with diverse linguistic needs. Choose the language settings that match your audio content for accurate transcriptions.'
 						/>
 						<AccordionItem
-							header='How long we deliver your first blog post?'
-							text='It takes 2-3 weeks to get your first blog post ready. That includes the in-depth research & creation of your monthly content marketing strategy that we do before writing your first blog post, Ipsum available .'
+							header='Q: What measures do you have in place to ensure data security and privacy?'
+							text='A: We prioritize the security and privacy of your data. Our platform employs encryption protocols, and we adhere to strict data protection standards. Your files and transcriptions are handled with the utmost confidentiality.'
 						/>
 					</div>
 				</div>

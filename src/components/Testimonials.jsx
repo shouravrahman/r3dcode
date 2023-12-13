@@ -4,13 +4,12 @@ const Testimonials = () => {
 			<div className='container px-6 py-12 mx-auto'>
 				<div className='grid items-center gap-4 xl:grid-cols-5'>
 					<div className='max-w-2xl mx-auto my-8 space-y-4 text-center xl:col-span-2 xl:text-left'>
-						<h2 className='text-4xl font-bold'>
-							Duo assum utroque appetere an
-						</h2>
+						<h2 className='text-4xl font-bold'>Insights from our clients</h2>
 						<p className='dark:text-gray-400'>
-							Pri ex magna scaevola moderatius. Nullam accommodare no vix, est
-							ei diceret alienum, et sit cetero malorum. Et sea iudico
-							consequat, est sanctus adipisci ex.
+							"Exceptional service and top-notch quality! Our experience with
+							SonicScribe has been nothing short of amazing. They truly
+							understand our needs and deliver outstanding results. Highly
+							recommended!"
 						</p>
 					</div>
 					<div className='absolute bottom-0 right-0 z-[-1]'>
@@ -47,11 +46,11 @@ const Testimonials = () => {
 							<div className='grid content-center gap-4'>
 								<div className='p-6 rounded-lg shadow-md dark:bg-gray-900'>
 									<p>
-										An audire commodo habemus cum. Ne sed corrumpit repudiandae.
-										Tota aliquip democritum pro in, nec democritum intellegam
-										ne. Propriae volutpat dissentiet ea sit, nec at lorem inani
-										tritani, an ius populo perfecto vituperatoribus. Eu cum case
-										modus salutandi, ut eum vocent sensibus reprehendunt.
+										"As a content creator, time is of the essence. This
+										audio-to-text converter has revolutionized my workflow. It's
+										incredibly fast and remarkably accurate, allowing me to
+										transcribe lengthy interviews in minutes. Say goodbye to
+										tedious manual transcriptions!"
 									</p>
 									<div className='flex items-center mt-4 space-x-4'>
 										<img
@@ -69,10 +68,11 @@ const Testimonials = () => {
 								</div>
 								<div className='p-6 rounded-lg shadow-md dark:bg-gray-900'>
 									<p>
-										Sit wisi sapientem ut, pri civibus temporibus voluptatibus
-										et, ius cu hinc fabulas. Nam meliore minimum et, regione
-										convenire cum id. Ex pro eros mucius consectetuer, pro magna
-										nulla nonumy ne, eam putent iudicabit consulatu cu.
+										"Reliability is everything in my line of work, and this
+										converter has never let me down. Whether it's a one-minute
+										clip or an hour-long interview, the accuracy remains
+										consistent. Dependable, accurate, and an absolute
+										game-changer."
 									</p>
 									<div className='flex items-center mt-4 space-x-4'>
 										<img
@@ -92,12 +92,12 @@ const Testimonials = () => {
 							<div className='grid content-center gap-4'>
 								<div className='p-6 rounded-lg shadow-md dark:bg-gray-900'>
 									<p>
-										Putant omnium elaboraret per ut. Id dicta tritani nominavi
-										quo, mea id justo errem elaboraret. Agam mollis scripserit
-										ea his, ut nec postea verear persecuti. Ea noster senserit
-										eam, ferri omittantur ei nec. Id mel solet libris
-										efficiantur, commune explicari et eos. Case movet ad est,
-										sed tota vocent appetere ea.
+										"What sets this audio-to-text converter apart is its
+										seamless integration with various platforms. It effortlessly
+										converts audio files into text, making it a valuable tool
+										for bloggers, journalists, and anyone looking to repurpose
+										content. Versatile and efficient – a must-have tool for
+										content creators."
 									</p>
 									<div className='flex items-center mt-4 space-x-4'>
 										<img
@@ -115,14 +115,11 @@ const Testimonials = () => {
 								</div>
 								<div className='p-6 rounded-lg shadow-md dark:bg-gray-900'>
 									<p>
-										Te omnes virtute volutpat sed. Ei esse eros interesset vel,
-										ei populo denique ocurreret vix, eu cum pertinax mandamus
-										vituperatoribus. Solum nihil luptatum per ex, ei amet
-										viderer eos. Ea illum labitur mnesarchum pro. Eius meis
-										salutandi ei nam, alterum expetenda et nec. Expetenda
-										intellegat at eum, per mazim sanctus honestatis ad. Ei
-										noluisse invenire vix. Te ancillae patrioque qui, probo
-										bonorum vivendum ex vim.
+										"I've tried various audio-to-text converters, but none match
+										the simplicity and accuracy of this tool. The user-friendly
+										interface makes transcription a breeze, and the precision is
+										unparalleled. A must-have for anyone dealing with audio
+										content."
 									</p>
 									<div className='flex items-center mt-4 space-x-4'>
 										<img
