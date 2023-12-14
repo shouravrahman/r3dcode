@@ -1,3 +1,4 @@
+import BentoGrid from "./components/BentoGrid";
 import Contact from "./components/Contact";
 import Faq from "./components/Faq";
 import Footer from "./components/Footer";
@@ -10,6 +11,7 @@ function App() {
 		<div className='text-base bg-background-dark py-4 px-6 md:px-8 lg:px-12'>
 			<Navbar />
 			<Hero />
+			<BentoGrid />
 			<Testimonials />
 			<Faq />
 			<Contact />
